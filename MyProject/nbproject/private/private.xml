@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/model/Role.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/SubjectDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/DBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/model/Student.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/model/Session.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/GroupDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/Controller/TakeAttendController.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/SessionDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/model/Account.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/model/Subject.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/TimeSlotDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/LecturerDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/model/TimeSlot.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/AttendanceDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/StudentDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/util/DateTimeHelper.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/Controller/auth/BaseRoleController.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/web/view/lecturer/takeattend.jsp</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/dal/AccountDBContext.java</file>
+            <file>file:/D:/fall2022/PRJ302-MyAssigment-main/PRJ302-MyAssigment-main/MyProject/src/java/Controller/auth/BaseAuthenticationController.java</file>
+        </group>
+    </open-files>
+</project-private>
